@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KLogger", "KLogger\KLogger.csproj", "{121D8AC8-D9C9-4180-AC06-7A5D6D4AC261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KLoggerTester", "KLoggerTester\KLoggerTester.csproj", "{A6E40D87-6D80-47C9-8073-E55B34811BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121D8AC8-D9C9-4180-AC06-7A5D6D4AC261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121D8AC8-D9C9-4180-AC06-7A5D6D4AC261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121D8AC8-D9C9-4180-AC06-7A5D6D4AC261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121D8AC8-D9C9-4180-AC06-7A5D6D4AC261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E40D87-6D80-47C9-8073-E55B34811BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E40D87-6D80-47C9-8073-E55B34811BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E40D87-6D80-47C9-8073-E55B34811BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E40D87-6D80-47C9-8073-E55B34811BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4722CB19-1792-4DD8-B04A-0B17082A0DA9}
+	EndGlobalSection
+EndGlobal

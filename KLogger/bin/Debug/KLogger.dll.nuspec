@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>KLogger.dll</id>
+    <version>1.0.0</version>
+    <authors>kvanport</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/KadenVanPortfleet</projectUrl>
+    <description>Kaden's Logging Package</description>
+    <releaseNotes>Initial Release Attempt</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Log Logging Debug Debugging Kaden</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="SampleDependency" version="1.0.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

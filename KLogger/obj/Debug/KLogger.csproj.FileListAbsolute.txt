@@ -1,0 +1,6 @@
+C:\Users\Kvanport\source\repos\KLogger\KLogger\bin\Debug\KLogger.dll
+C:\Users\Kvanport\source\repos\KLogger\KLogger\bin\Debug\KLogger.pdb
+C:\Users\Kvanport\source\repos\KLogger\KLogger\obj\Debug\KLogger.csproj.AssemblyReference.cache
+C:\Users\Kvanport\source\repos\KLogger\KLogger\obj\Debug\KLogger.csproj.CoreCompileInputs.cache
+C:\Users\Kvanport\source\repos\KLogger\KLogger\obj\Debug\KLogger.dll
+C:\Users\Kvanport\source\repos\KLogger\KLogger\obj\Debug\KLogger.pdb
